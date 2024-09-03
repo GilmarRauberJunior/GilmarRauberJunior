@@ -2,14 +2,13 @@
 # Olá, eu sou o Gilmar! 👋
 
 
-## 🚀 Sobre mim
-Olá me chamo Gilmar Rauber Junior, tenho 20 anos de idade, atualmente estou cursando Analise e Desenvolvimento de Sistemas.
+## **🚀 About me**
 
 
-## 🛠 Habilidades
+## 🛠 Skills
 
 <details>
-    <summary>Tecnologias</summary>
+    <summary>Technologies</summary>
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -22,13 +21,13 @@ Olá me chamo Gilmar Rauber Junior, tenho 20 anos de idade, atualmente estou cur
 </details>
 
 <details>
-    <summary>Versionamento</summary>
+    <summary>Versioning</summary>
 
 > ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </details>
 
 <details>
-    <summary>Banco de Dados</summary>
+    <summary>DataBase</summary>
 
 > ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
