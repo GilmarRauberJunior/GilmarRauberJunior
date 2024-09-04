@@ -1,9 +1,10 @@
 
-# Olá, eu sou o Gilmar! 👋
-
+# Hello, i'am Gilmar! 👋
 
 ## **🚀 About me**
-
+* Gilmar Rauber Junior, 20 years.
+* Student of Analysis and Systems Development.
+* My motivation for studying IT is to understando how it works and why programs an APIs are made.
 
 ## 🛠 Skills
 
