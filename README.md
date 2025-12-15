@@ -2,7 +2,7 @@
 # Hello, i'am Gilmar! 👋
 
 ## **🚀 About me**
-* Gilmar Rauber Junior, 21 years.
+* Gilmar Rauber Junior, 22 years.
 * Student of Analysis and Systems Development.
 * My motivation for studying IT is to understand how it works and why programs an APIs are made.
 
