@@ -4,7 +4,7 @@
 ## **🚀 About me**
 * Gilmar Rauber Junior, 22 years.
 * Student of Analysis and Systems Development.
-* My motivation for studying IT is to understand how it works and why programs an APIs are made.
+* My motivation for studying IT is to understand how it works and how can i implement a solution for a problem.
 
 ## 🛠 Skills
 
